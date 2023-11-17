@@ -1,0 +1,15 @@
+{
+    "applicationid": "78103821",
+    "escrowaddress":"3SEG6XKQAF6JXFGILCYQH7JS3SVC44SWRXLLDR3ICGO3F4XD5JAIBFFSDA",
+    "assetid" : "78088555",
+    "rewardassetid":"78044331",
+    "creatoraddress":"QMBNS6DLHFQOSXPK3FGBLSUJ4LKG74CE45VK3I46ZAJ3L4C3MOPYPBPEIM",      
+    "priceappid":"57691024",
+    "pairescrowaddress":"BPBVGSHOQL32P63ZYZTNGSLMA2LORTLGB7FG5YEDXZS4PDMH5CATERXZSY",         
+    "escrowdata": "BCACAAYyBIECDzIEIw4QQQAxMwAYgY2KnyUSQAADQgAiMwAQIxIzABkiEiIzABkSERAzASAyAxIQMwAgMgMSEEAAAiJDgQFD",
+    "enddate":"1655402968",
+    "price":"0.01",
+    "assetidalgo" : "0",
+    "assetideinr" : "78044898",
+    "LpAPP":"78051589"
+    }

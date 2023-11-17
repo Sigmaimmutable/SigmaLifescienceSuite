@@ -1,0 +1,36 @@
+{
+    "rewrites": [
+        {
+            "source": "/platform/v1/userinfo",
+            "destination": "https://testapi.stasisonline.in/platform/v1/userinfo"            
+        },
+        {
+            "source": "/platform/v1/userexists",
+            "destination": "https://testapi.stasisonline.in/platform/v1/userexists"            
+        },
+        {
+            "source": "/platform/v1/templateusage",
+            "destination": "https://testapi.stasisonline.in/platform/v1/templateusage"
+        },
+        {
+            "source": "/platform/v1/uservisitrecord",
+            "destination": "https://testapi.stasisonline.in/platform/v1/uservisitrecord"
+        },
+        {
+            "source": "/platform/v1/payment",
+            "destination": "https://testapi.stasisonline.in/platform/v1/payment"
+        },
+        {
+            "source": "/platform/v1/invoice",
+            "destination": "https://testapi.stasisonline.in/platform/v1/invoice"
+        },
+        {
+            "source": "/platform/v1/generateinvoice",
+            "destination": "https://testapi.stasisonline.in/platform/v1/generateinvoice"
+        },
+        {
+            "source": "/platform/v1/network",
+            "destination": "https://testapi.stasisonline.in/platform/v1/network"
+        }
+    ]
+}
